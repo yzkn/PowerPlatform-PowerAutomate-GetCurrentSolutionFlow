@@ -1,0 +1,2 @@
+# PowerPlatform-PowerAutomate-GetCurrentSolutionFlow
+ Power Automate クラウドフローが含まれているソリューションの名前などを取得する
